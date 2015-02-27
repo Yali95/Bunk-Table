@@ -1,0 +1,27 @@
+<resources>
+
+   
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    <item name="android:colorPrimary">#9C27B0</item>
+    <item name="android:colorPrimaryDark">#AB47BC</item>
+    <item name="android:colorAccent">#E040FB</item>
+    </style>
+    
+    
+    <style name="BlueTheme" parent="android:Theme.Material.Light">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    <item name="android:colorPrimary">#03A9F4</item>
+    <item name="android:colorPrimaryDark">#0277BD</item>
+    <item name="android:colorAccent">#E040FB</item>
+    </style>
+
+    <style name="RedTheme" parent="android:Theme.Material.Light">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    <item name="android:colorPrimary">@color/Crimson</item>
+    <item name="android:colorPrimaryDark">@color/Red</item>
+    <item name="android:colorAccent">@color/Blue</item>
+    </style>
+    
+    
+</resources>
